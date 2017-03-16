@@ -6,7 +6,7 @@
 
 	* for loop
 	- commonly used looping method in js
-	- can be used for looping over letters or 
+	- can be used for looping over letters or
 		- a for loop is in this format:
 			``` pseudocode
 			for (what needs to be true for looping) {
@@ -25,11 +25,22 @@
 		} //end of looping block
 
 	* && || !
-		-
-	* Array
-	* git
-	* GitHub
+		- these are all conditional modifiers
+		- && means AND
+		- || means OR
+		- ! means NOT
 
+	* Array
+	- an array is a special type of object than can hold a list of items usually of same type but can be of an assortment.
+	- arrays look like this: arr = [item1, item2, item3];
+	- arrays can be nested like this [[item1, item2, item3], [item1, item2]]
+	- in Javascript Array is a global object with built in methods and properties
+
+	* git
+	- a program used to track changes in a program.  Especially useful when many people are collaborating because you can rewind to a previous commit (change) when somebody breaks the program with bad code.
+
+	* GitHub
+	- a popular online repository useful for collaborating and sharing code.  
 
 2. Install git.  https://git-scm.com/downloads
 
